@@ -20,13 +20,13 @@
   <repository>
   <id>deployment</id>
   <name>Internal Releases</name>
-  <url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-release/</url>
+  <url>http://54.229.103.183:8081/nexus/content/repositories/cts-hosted/</url>
   </repository>
  
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-snapshot/</url>
+<url>http://54.229.103.183:8081/nexus/content/repositories/cts-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
 
